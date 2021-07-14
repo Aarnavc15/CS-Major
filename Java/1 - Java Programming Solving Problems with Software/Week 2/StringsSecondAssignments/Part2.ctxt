@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Part2
+comment1.params=
+comment1.target=Part2()
+comment2.params=stringa\ stringb
+comment2.target=int\ howMany(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ testHowMany()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

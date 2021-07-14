@@ -1,0 +1,8 @@
+package roadgraph;
+
+public class MapEdge {
+	private MapVertex start;
+	private MapVertex stop;
+	private String street;
+	private double dist;
+}

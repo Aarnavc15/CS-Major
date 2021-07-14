@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TagFinder
+comment1.params=
+comment1.target=TagFinder()
+comment2.params=dna
+comment2.target=java.lang.String\ findProtein(java.lang.String)
+comment3.params=
+comment3.target=void\ testingSimpleGene()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

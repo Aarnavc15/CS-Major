@@ -1,0 +1,7 @@
+package roadgraph;
+import java.util.HashSet;
+import geography.GeographicPoint;
+
+public class MapVertex {
+	 private  GeographicPoint loc;
+}
