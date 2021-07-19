@@ -1,6 +1,0 @@
-package roadgraph;
-import java.util.HashSet;
-
-public class MapVertex {
-	 
-}

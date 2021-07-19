@@ -24,4 +24,7 @@ public class MapEdge {
 	public MapVertex getStop() {
 		return stop;
 	}
+	public double getDist(){
+		return dist;
+	}
 }
